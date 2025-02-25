@@ -23,7 +23,6 @@ This project is an AI-powered chatbot built using the **Spring AI-SpringBoot** p
 Ensure you have the following installed:
 - Java 17 or later
 - Maven 3.x
-- PostgreSQL / Pinecone (if using a vector database)
 - OpenAI API Key (or equivalent LLM provider key)
 
 ### Steps to Run
@@ -42,7 +41,6 @@ Ensure you have the following installed:
 4. Configure environment variables:
    ```sh
    export OPENAI_API_KEY=your-api-key
-   export VECTOR_DB_URI=your-vector-database-uri
    ```
 5. Run the SpringBoot application:
    ```sh
