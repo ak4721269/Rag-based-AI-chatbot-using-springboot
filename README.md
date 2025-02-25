@@ -1,4 +1,3 @@
-# Rag-based-AI-chatbot-using-springboot
 # RAG-based AI Chatbot using SpringBoot
 
 ## Overview
